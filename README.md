@@ -10,7 +10,7 @@ This repo is my personal log of daily Data Structures & Algorithms practice.
 Every day I solve problems, write clean code in VS Code, and push here — building the habit and the skill simultaneously.
  
 - 🛠 **Editor:** VS Code  
-- 💻 **Language:** (e.g. Python / Java / C++ — update this)  
+- 💻 **Language:**  Java  
 - 📅 **Started:** April 2025  
 - 🔥 **Current Streak:** updating daily
  
@@ -51,7 +51,8 @@ Every day I solve problems, write clean code in VS Code, and push here — build
  
 | Date | Problem | Topic | Difficulty | Notes |
 |------|---------|-------|------------|-------|
-| 2025-04-14 | Contains Duplicate | Arrays | Easy | HashSet approach |
+| 2025-04-13 | Contains Duplicate | Arrays | Easy | HashSet approach |
+| 2025-04-14 | Valid Anagram | Arrays | Easy | HashMap approach |
 | ... | ... | ... | ... | ... |
  
 ---
