@@ -53,7 +53,7 @@ Every day I solve problems, write clean code in VS Code, and push here — build
 |------|---------|-------|------------|-------|
 | 2025-04-13 | Contains Duplicate | Arrays | Easy | HashSet approach |
 | 2025-04-14 | Valid Anagram | Arrays | Easy | HashMap approach |
-| ... | ... | ... | ... | ... |
+| 2023-04-15 | Two Sum | Arrays | Easy | HashMap approach |
  
 ---
  
