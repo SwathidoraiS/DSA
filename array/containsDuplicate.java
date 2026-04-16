@@ -86,7 +86,7 @@ class HashSetSolution {
 }
 
 // Main class to test the solutions
-public class Day1 {
+public class containsDuplicate {
 
     public static void main(String[] args) {
 

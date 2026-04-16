@@ -108,7 +108,7 @@ class HashTableSolution {
 
 // Main method to test the solutions
 
-public class Day2 {
+public class validAnagram {
     public static void main(String[] args) {
         SortingSolution sol1 = new SortingSolution();
         HashMapSolution sol2 = new HashMapSolution();
